@@ -1,0 +1,6 @@
+{
+  "name": "CodeAlpha Language Translation Tool",
+  "description": "An AI-powered multilingual translation web app featuring real-time translation, speech synthesis, language detection, and internship project deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

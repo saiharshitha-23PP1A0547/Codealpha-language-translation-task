@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+
+# Build artifacts
+build/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# System & IDE files
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Environment and secrets
+.env*
+!.env.example
+.streamlit/secrets.toml

@@ -1,0 +1,11 @@
+# CodeAlpha Artificial Intelligence Internship
+# Project: CodeAlpha_LanguageTranslationTool
+# Dependencies for Streamlit, Deep-Translator, and Text-To-Speech
+
+streamlit>=1.31.0
+deep-translator>=1.11.4
+gTTS>=2.5.1
+langdetect>=1.0.9
+python-dotenv>=1.0.0
+requests>=2.31.0
+pytest>=8.0.0
